@@ -1,0 +1,16 @@
+{
+  "name": "multi-agent-designer",
+  "owner": {
+    "name": "Michael Silveira"
+  },
+  "metadata": {
+    "description": "Claude Code skill for designing multi-agent LLM systems from empirical failure research."
+  },
+  "plugins": [
+    {
+      "name": "multi-agent-designer",
+      "source": "./",
+      "description": "Design multi-agent LLM systems using empirical failure research (MAST taxonomy, post-mortems, generator/evaluator harnesses)."
+    }
+  ]
+}

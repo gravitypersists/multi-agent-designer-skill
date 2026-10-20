@@ -1,0 +1,16 @@
+{
+  "name": "multi-agent-designer",
+  "version": "0.1.0",
+  "description": "Design multi-agent LLM systems (including Claude Code skills that orchestrate subagents) using empirical failure research: MAST taxonomy, production post-mortems, generator/evaluator harnesses.",
+  "author": {
+    "name": "Michael Silveira"
+  },
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "subagents",
+    "orchestration",
+    "agent-design",
+    "skill"
+  ]
+}
